@@ -42,6 +42,8 @@ source venv/bin/activate
 
 
 
+
+
 3. Instalar as Dependências
 Com o ambiente virtual ativado, instale todas as bibliotecas necessárias com um único comando:
 pip install -r requirements.txt
